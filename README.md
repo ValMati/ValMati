@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a **software engineer** with more than 15 years of experience.
+I have been working as a **software engineer** since 2007 and I have no intention of stopping ;)
 
 - 🔭 I’m currently working with **C# and .Net on the Azure cloud platform**
 - 💬 Ask me about **C#, .Net, Git, ... or anything else you can think of**
@@ -48,3 +48,4 @@ I am a **software engineer** with more than 15 years of experience.
 - [GitHub](https://github.com/ValMati/)
 - [Kaggle](https://www.kaggle.com/valmati)
 - [Exercism](https://exercism.org/profiles/Valmati)
+- [HackerRank](https://www.hackerrank.com/profile/valmati)
